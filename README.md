@@ -56,7 +56,7 @@ Or ....
 
 
    
-## Usage
+'''## Usage
 
 In order to train the model and store test data in the data folder and the model in models run:
 
@@ -71,3 +71,4 @@ In order to test that predict works on a test set you created run:
 ```bash
 python example_files/predict.py models/linear_regression_model.sav data/X_test.csv data/y_test.csv
 ```
+'''
