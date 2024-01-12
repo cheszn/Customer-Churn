@@ -22,4 +22,6 @@ tensorflow-hub
 tensorflow-docs
 tensorflow
 Flask==2.0.1
+streamlit
+plotly
 
